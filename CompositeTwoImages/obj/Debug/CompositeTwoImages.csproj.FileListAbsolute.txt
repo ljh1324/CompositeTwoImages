@@ -1,0 +1,9 @@
+D:\MyProject\CompositeTwoImages\CompositeTwoImages\bin\Debug\CompositeTwoImages.exe.config
+D:\MyProject\CompositeTwoImages\CompositeTwoImages\bin\Debug\CompositeTwoImages.exe
+D:\MyProject\CompositeTwoImages\CompositeTwoImages\bin\Debug\CompositeTwoImages.pdb
+D:\MyProject\CompositeTwoImages\CompositeTwoImages\obj\Debug\CompositeTwoImages.csprojResolveAssemblyReference.cache
+D:\MyProject\CompositeTwoImages\CompositeTwoImages\obj\Debug\CompositeTwoImages.Form1.resources
+D:\MyProject\CompositeTwoImages\CompositeTwoImages\obj\Debug\CompositeTwoImages.Properties.Resources.resources
+D:\MyProject\CompositeTwoImages\CompositeTwoImages\obj\Debug\CompositeTwoImages.csproj.GenerateResource.Cache
+D:\MyProject\CompositeTwoImages\CompositeTwoImages\obj\Debug\CompositeTwoImages.exe
+D:\MyProject\CompositeTwoImages\CompositeTwoImages\obj\Debug\CompositeTwoImages.pdb
